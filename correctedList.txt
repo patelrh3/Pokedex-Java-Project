@@ -1,0 +1,10 @@
+Machop :  066 : 23.64  :  0.87  :  Superpower   : 90  : 596
+Guts, No Guard : Fighting  : Flying, Psychic, Fairy
+Bulbasaur : 001 : 6.9 : 0.7 : Seed  : 56 : 214
+Overgrow : Grass : Fire, Flying, Ice, Psychic
+Weedle : 013 : 3 : 0.29 : Hairy Bug : 37 : 116
+Shield Dust : Poison  :  Fire, Flying, Psychic, Rock
+Flareon : 136 : 6.39  : 0.78 : Flame : 75 : 1128
+Flash Fire  :  Fire :  Ground, Rock, Water
+Wigglytuff :  040 : 12.85: 1.09  : Balloon  : 146 : 878
+Cute Charm, Competitive : Fairy  :   Steel, Poison
